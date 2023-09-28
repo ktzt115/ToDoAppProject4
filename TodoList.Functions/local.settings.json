@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "ServiceBusConnectionString": "Endpoint=sb://sbqueue1thuzarp4.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=UHu+bfAzgtrsmcCytHe61mm7tj71JAXeX+ASbE+9ea8=",
+    "SqlServerConnectionString": "Server=tcp:dbproject4ktzt12933.database.windows.net,1433;Initial Catalog=dbproject4;Persist Security Info=False;User ID=admin32123;Password=Abcdef@12345;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "SignalRConnectionString": "Endpoint=https://todolistsr284773.service.signalr.net;AccessKey=HPovpzys0oYIS+QdC7IG5YDWn3Lf9Y0/a6Z8oSQYbjM=;Version=1.0;"
+  },
+  "Host": {
+    "CORS": "http://localhost:5000/",
+    "CORSCredentials": true
+  }
+}
